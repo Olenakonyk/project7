@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="307px" height="434px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 307 434"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str14 {stroke:#AB463A;stroke-width:0.0787657}
+    .str6 {stroke:#AE4C33;stroke-width:0.0787657}
+    .str8 {stroke:#AE4D2C;stroke-width:0.0787657}
+    .str11 {stroke:#BF613D;stroke-width:0.0787657}
+    .str27 {stroke:#C05B2F;stroke-width:0.0787657}
+    .str16 {stroke:#C25F3F;stroke-width:0.0787657}
+    .str18 {stroke:#C25F40;stroke-width:0.0787657}
+    .str23 {stroke:#C25F59;stroke-width:0.0787657}
+    .str20 {stroke:#C26047;stroke-width:0.0787657}
+    .str33 {stroke:#C35C5D;stroke-width:0.0787657}
+    .str3 {stroke:#C85C40;stroke-width:0.0787657}
+    .str5 {stroke:#C95E30;stroke-width:0.0787657}
+    .str1 {stroke:#CC7A4A;stroke-width:0.0787657}
+    .str35 {stroke:#D17256;stroke-width:0.0787657}
+    .str4 {stroke:#D27242;stroke-width:0.0787657}
+    .str15 {stroke:#D3735A;stroke-width:0.0787657}
+    .str31 {stroke:#D46F63;stroke-width:0.0787657}
+    .str26 {stroke:#D4715C;stroke-width:0.0787657}
+    .str19 {stroke:#D47352;stroke-width:0.0787657}
+    .str10 {stroke:#D47555;stroke-width:0.0787657}
+    .str30 {stroke:#D56F6A;stroke-width:0.0787657}
+    .str37 {stroke:#D57161;stroke-width:0.0787657}
+    .str17 {stroke:#D57751;stroke-width:0.0787657}
+    .str24 {stroke:#D66F6A;stroke-width:0.0787657}
+    .str7 {stroke:#D67650;stroke-width:0.0787657}
+    .str34 {stroke:#D6815A;stroke-width:0.0787657}
+    .str28 {stroke:#DB865F;stroke-width:0.0787657}
+    .str13 {stroke:#DF7B6B;stroke-width:0.0787657}
+    .str12 {stroke:#DF8060;stroke-width:0.0787657}
+    .str25 {stroke:#E17E67;stroke-width:0.0787657}
+    .str32 {stroke:#E27C77;stroke-width:0.0787657}
+    .str22 {stroke:#E27E6F;stroke-width:0.0787657}
+    .str9 {stroke:#F39573;stroke-width:0.0787657}
+    .str29 {stroke:#F49081;stroke-width:0.0787657}
+    .str2 {stroke:#F49674;stroke-width:0.0787657}
+    .str21 {stroke:#F5927D;stroke-width:0.0787657}
+    .str36 {stroke:#F69781;stroke-width:0.0787657}
+    .str38 {stroke:#2B2A29;stroke-width:0.206734}
+    .str0 {stroke:#87250C;stroke-width:0.206734}
+    .str39 {stroke:#86240B;stroke-width:0.516835}
+    .fil123 {fill:none}
+    .fil125 {fill:none;fill-rule:nonzero}
+    .fil0 {fill:#86240B}
+    .fil40 {fill:#8F3213}
+    .fil14 {fill:#AB463A}
+    .fil6 {fill:#AE4C33}
+    .fil8 {fill:#AE4D2C}
+    .fil94 {fill:#AF3D70}
+    .fil95 {fill:#AF4164}
+    .fil41 {fill:#B1492E}
+    .fil110 {fill:#B23986}
+    .fil108 {fill:#B23A82}
+    .fil89 {fill:#B24074}
+    .fil81 {fill:#B34B70}
+    .fil97 {fill:#B53D61}
+    .fil39 {fill:#BD6D4C}
+    .fil11 {fill:#BF613D}
+    .fil93 {fill:#C05485}
+    .fil52 {fill:#C05A56}
+    .fil28 {fill:#C05B2F}
+    .fil69 {fill:#C1556C}
+    .fil63 {fill:#C15763}
+    .fil42 {fill:#C16148}
+    .fil49 {fill:#C25D53}
+    .fil16 {fill:#C25F3F}
+    .fil18 {fill:#C25F40}
+    .fil24 {fill:#C25F59}
+    .fil21 {fill:#C26047}
+    .fil88 {fill:#C3567D}
+    .fil76 {fill:#C3576F}
+    .fil57 {fill:#C35A5E}
+    .fil55 {fill:#C35A61}
+    .fil34 {fill:#C35C5D}
+    .fil116 {fill:#C4508D}
+    .fil75 {fill:#C45575}
+    .fil90 {fill:#C54F8B}
+    .fil103 {fill:#C5547F}
+    .fil98 {fill:#C55774}
+    .fil67 {fill:#C55B72}
+    .fil111 {fill:#C64C97}
+    .fil113 {fill:#C64D9D}
+    .fil109 {fill:#C64E95}
+    .fil83 {fill:#C75588}
+    .fil80 {fill:#C8567A}
+    .fil3 {fill:#C85C40}
+    .fil5 {fill:#C95E30}
+    .fil1 {fill:#CC7A4A}
+    .fil59 {fill:#CE7070}
+    .fil86 {fill:#CF6B85}
+    .fil78 {fill:#CF6F7D}
+    .fil36 {fill:#D17256}
+    .fil4 {fill:#D27242}
+    .fil104 {fill:#D36592}
+    .fil51 {fill:#D36D69}
+    .fil15 {fill:#D3735A}
+    .fil32 {fill:#D46F63}
+    .fil46 {fill:#D47061}
+    .fil27 {fill:#D4715C}
+    .fil19 {fill:#D47352}
+    .fil10 {fill:#D47555}
+    .fil105 {fill:#D5658B}
+    .fil84 {fill:#D56794}
+    .fil62 {fill:#D56A7A}
+    .fil31 {fill:#D56F6A}
+    .fil50 {fill:#D57066}
+    .fil38 {fill:#D57161}
+    .fil17 {fill:#D57751}
+    .fil118 {fill:#D661A5}
+    .fil85 {fill:#D66591}
+    .fil73 {fill:#D6668C}
+    .fil72 {fill:#D6668E}
+    .fil77 {fill:#D66787}
+    .fil25 {fill:#D66F6A}
+    .fil7 {fill:#D67650}
+    .fil68 {fill:#D76982}
+    .fil112 {fill:#D85EB3}
+    .fil101 {fill:#D8629C}
+    .fil96 {fill:#D8698A}
+    .fil107 {fill:#D962A4}
+    .fil87 {fill:#D97A98}
+    .fil58 {fill:#DA6E7B}
+    .fil48 {fill:#DB796E}
+    .fil29 {fill:#DB865F}
+    .fil13 {fill:#DF7B6B}
+    .fil20 {fill:#DF7D60}
+    .fil12 {fill:#DF8060}
+    .fil121 {fill:#E172A5}
+    .fil70 {fill:#E17390}
+    .fil60 {fill:#E17783}
+    .fil56 {fill:#E17B79}
+    .fil26 {fill:#E17E67}
+    .fil100 {fill:#E272A4}
+    .fil65 {fill:#E2778B}
+    .fil54 {fill:#E27980}
+    .fil33 {fill:#E27C77}
+    .fil23 {fill:#E27E6F}
+    .fil91 {fill:#E370A7}
+    .fil74 {fill:#E3739B}
+    .fil64 {fill:#E3778F}
+    .fil66 {fill:#E37888}
+    .fil106 {fill:#E4749C}
+    .fil35 {fill:#F19276}
+    .fil102 {fill:#F280B1}
+    .fil44 {fill:#F2937D}
+    .fil82 {fill:#F386AF}
+    .fil9 {fill:#F39573}
+    .fil30 {fill:#F49081}
+    .fil2 {fill:#F49674}
+    .fil122 {fill:#F586BB}
+    .fil53 {fill:#F58E8F}
+    .fil47 {fill:#F59084}
+    .fil22 {fill:#F5927D}
+    .fil79 {fill:#F68AA4}
+    .fil45 {fill:#F69380}
+    .fil37 {fill:#F69781}
+    .fil120 {fill:#F69ED0}
+    .fil92 {fill:#F785B8}
+    .fil71 {fill:#F788A8}
+    .fil61 {fill:#F78D99}
+    .fil115 {fill:#F885CA}
+    .fil99 {fill:#F888AC}
+    .fil114 {fill:#F97FD4}
+    .fil117 {fill:#FC9DDD}
+    .fil43 {fill:#FDA692}
+    .fil124 {fill:#FFC3E5}
+    .fil119 {fill:#FFC3E8}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="64,133 72,151 91,138 "/>
+  <polygon class="fil0 str0" points="19,209 15,233 29,215 "/>
+  <polygon class="fil1 str1" points="26,241 29,215 15,233 "/>
+  <polygon class="fil2 str2" points="30,215 26,241 43,221 "/>
+  <polygon class="fil3 str3" points="43,221 26,241 54,233 "/>
+  <polygon class="fil4 str4" points="19,209 12,201 15,232 "/>
+  <polygon class="fil5 str5" points="25,185 12,201 19,209 "/>
+  <polygon class="fil6 str6" points="69,212 44,221 54,232 "/>
+  <polygon class="fil7 str7" points="39,194 19,209 29,215 "/>
+  <polygon class="fil8 str8" points="25,185 19,209 39,194 "/>
+  <polygon class="fil9 str9" points="39,194 29,215 55,198 "/>
+  <polygon class="fil10 str10" points="55,198 29,215 43,221 "/>
+  <polygon class="fil11 str11" points="25,185 39,194 50,170 "/>
+  <polygon class="fil12 str12" points="39,194 55,198 50,170 "/>
+  <polygon class="fil13 str13" points="54,198 69,212 75,191 "/>
+  <polygon class="fil14 str14" points="75,191 69,212 93,198 "/>
+  <polygon class="fil15 str15" points="55,197 75,191 50,170 "/>
+  <polygon class="fil16 str16" points="69,212 55,198 43,221 "/>
+  <polygon class="fil17 str17" points="25,185 51,170 39,165 "/>
+  <polygon class="fil18 str18" points="38,166 50,170 51,145 "/>
+  <polygon class="fil19 str19" points="51,145 50,170 64,133 "/>
+  <polygon class="fil20 str19" points="64,134 50,171 72,151 "/>
+  <polygon class="fil21 str20" points="72,151 50,170 80,170 "/>
+  <polygon class="fil22 str21" points="79,170 50,170 75,191 "/>
+  <polygon class="fil23 str22" points="79,170 75,191 101,171 "/>
+  <polygon class="fil24 str23" points="101,172 93,198 108,196 "/>
+  <polygon class="fil25 str24" points="101,171 108,196 122,185 "/>
+  <polygon class="fil26 str25" points="79,118 64,133 91,138 "/>
+  <polygon class="fil27 str26" points="72,151 80,170 91,137 "/>
+  <polygon class="fil28 str27" points="50,145 65,133 55,114 "/>
+  <polygon class="fil29 str28" points="65,133 74,101 55,115 "/>
+  <polygon class="fil30 str29" points="91,138 79,170 112,148 "/>
+  <polygon class="fil31 str30" points="101,171 75,191 93,198 "/>
+  <polygon class="fil32 str31" points="112,148 79,170 101,171 "/>
+  <polygon class="fil33 str32" points="130,163 112,148 101,171 "/>
+  <polygon class="fil34 str33" points="130,163 101,171 122,185 "/>
+  <polygon class="fil35 str34" points="64,133 79,121 74,102 "/>
+  <polygon class="fil36 str35" points="78,122 91,105 74,102 "/>
+  <polygon class="fil37 str36" points="78,121 91,137 91,105 "/>
+  <polygon class="fil38 str37" points="90,105 91,138 104,109 "/>
+  <polygon class="fil39" points="55,115 74,102 67,92 "/>
+  <polygon class="fil40" points="56,63 67,92 80,84 "/>
+  <polygon class="fil41" points="74,102 80,84 67,92 "/>
+  <polygon class="fil42" points="80,84 74,102 90,105 "/>
+  <polygon class="fil43" points="80,84 90,105 103,81 "/>
+  <polygon class="fil44" points="74,55 80,84 103,81 "/>
+  <polygon class="fil45" points="103,81 90,105 104,109 "/>
+  <polygon class="fil46" points="103,81 104,109 117,79 "/>
+  <polygon class="fil47" points="117,79 104,109 126,97 "/>
+  <polygon class="fil23" points="104,109 91,138 116,127 "/>
+  <polygon class="fil48" points="116,127 91,138 111,148 "/>
+  <polygon class="fil49" points="104,109 116,127 126,97 "/>
+  <polygon class="fil50" points="137,70 117,79 126,97 "/>
+  <polygon class="fil51" points="126,97 116,127 143,110 "/>
+  <polygon class="fil52" points="116,127 111,148 134,136 "/>
+  <polygon class="fil53" points="111,148 130,163 133,135 "/>
+  <polygon class="fil52" points="130,163 143,157 133,135 "/>
+  <polygon class="fil54" points="143,157 158,131 133,135 "/>
+  <polygon class="fil53" points="116,127 134,135 143,110 "/>
+  <polygon class="fil55" points="143,110 133,135 157,131 "/>
+  <polygon class="fil35" points="78,119 75,107 74,101 74,102 65,131 65,131 65,133 64,133 64,133 65,132 78,121 "/>
+  <polygon class="fil56" points="137,71 126,97 143,109 "/>
+  <polygon class="fil57" points="137,71 143,110 159,80 "/>
+  <polygon class="fil58" points="143,110 169,98 159,81 "/>
+  <polygon class="fil59" points="137,71 159,81 181,73 "/>
+  <polygon class="fil60" points="181,73 159,81 168,97 "/>
+  <polygon class="fil61" points="168,97 143,110 158,131 "/>
+  <polygon class="fil62" points="157,131 143,157 165,149 "/>
+  <polygon class="fil63" points="165,149 143,157 155,169 "/>
+  <polygon class="fil64" points="165,149 155,169 182,160 "/>
+  <polygon class="fil65" points="157,131 165,149 187,128 "/>
+  <polygon class="fil66" points="168,97 158,131 183,108 "/>
+  <polygon class="fil67" points="183,108 157,131 187,128 "/>
+  <polygon class="fil68" points="181,73 168,97 207,81 "/>
+  <polygon class="fil69" points="207,81 168,97 183,108 "/>
+  <polygon class="fil70" points="183,108 187,128 206,105 "/>
+  <polygon class="fil71" points="183,108 206,105 207,81 "/>
+  <polygon class="fil72" points="207,81 206,105 238,97 "/>
+  <polygon class="fil73" points="206,105 187,128 215,125 "/>
+  <polygon class="fil74" points="238,97 206,105 215,125 "/>
+  <polygon class="fil75" points="215,124 187,128 196,149 "/>
+  <polygon class="fil76" points="187,128 164,149 182,161 "/>
+  <polygon class="fil77" points="187,128 181,160 196,149 "/>
+  <polygon class="fil78" points="181,160 155,169 163,183 "/>
+  <polygon class="fil79" points="181,160 163,183 168,204 "/>
+  <polygon class="fil80" points="196,149 180,160 189,183 "/>
+  <polygon class="fil81" points="217,155 196,148 189,183 "/>
+  <polygon class="fil82" points="215,124 196,148 217,155 "/>
+  <polygon class="fil83" points="238,97 215,124 236,129 "/>
+  <polygon class="fil84" points="236,129 215,124 216,155 "/>
+  <polygon class="fil85" points="205,195 217,155 189,183 "/>
+  <polygon class="fil86" points="189,183 168,204 171,218 "/>
+  <polygon class="fil87" points="189,183 171,218 197,218 "/>
+  <polygon class="fil88" points="189,182 197,218 206,194 "/>
+  <polygon class="fil89" points="238,97 235,129 259,118 "/>
+  <polygon class="fil90" points="236,129 246,155 259,117 "/>
+  <polygon class="fil91" points="236,129 216,155 246,155 "/>
+  <polygon class="fil92" points="246,155 216,155 223,180 "/>
+  <polygon class="fil93" points="216,155 205,195 223,180 "/>
+  <polygon class="fil94" points="206,194 197,218 219,215 "/>
+  <polygon class="fil95" points="197,218 171,218 178,232 "/>
+  <polygon class="fil96" points="158,247 179,231 171,218 "/>
+  <polygon class="fil97" points="179,231 158,247 168,260 "/>
+  <polygon class="fil98" points="158,247 159,283 168,260 "/>
+  <polygon class="fil96" points="168,260 159,283 170,296 "/>
+  <polygon class="fil99" points="168,260 170,297 185,275 "/>
+  <polygon class="fil100" points="206,194 219,215 223,180 "/>
+  <polygon class="fil101" points="223,180 219,215 242,200 "/>
+  <polygon class="fil102" points="196,218 206,241 219,215 "/>
+  <polygon class="fil103" points="185,252 197,218 179,231 "/>
+  <polygon class="fil104" points="196,218 185,252 207,240 "/>
+  <polygon class="fil105" points="179,231 168,260 185,251 "/>
+  <polygon class="fil106" points="185,251 168,260 185,275 "/>
+  <polygon class="fil77" points="190,183 181,161 168,204 "/>
+  <polygon class="fil107" points="246,155 223,180 252,174 "/>
+  <polygon class="fil108" points="273,133 246,155 276,158 "/>
+  <polygon class="fil109" points="246,155 252,174 276,158 "/>
+  <polygon class="fil110" points="275,157 252,174 266,195 "/>
+  <polygon class="fil111" points="273,133 275,158 298,160 "/>
+  <polygon class="fil112" points="298,160 275,158 296,185 "/>
+  <polygon class="fil113" points="275,158 266,194 296,185 "/>
+  <polygon class="fil114" points="296,185 266,194 279,222 "/>
+  <polygon class="fil115" points="252,174 241,200 266,195 "/>
+  <polygon class="fil116" points="223,180 241,200 252,174 "/>
+  <polygon class="fil117" points="266,195 241,200 254,228 "/>
+  <polygon class="fil118" points="246,155 273,133 258,117 "/>
+  <polygon class="fil119" points="225,220 220,249 242,232 "/>
+  <polygon class="fil120" points="241,232 220,249 231,267 "/>
+  <polygon class="fil121" points="202,251 185,275 207,264 "/>
+  <polygon class="fil122" points="207,264 185,275 199,288 "/>
+  <polygon class="fil123 str38" points="-41,143 -39,137 -35,140 "/>
+  <polygon class="fil124" points="207,264 199,288 221,278 "/>
+ </g>
+ <g id="Слой_x0020_1_0">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <line class="fil125 str39" x1="272" y1="318" x2="272" y2= "281" />
+  <path class="fil125 str39" d="M289 284l-17 9m19 20l0 0"/>
+  <path class="fil125 str39" d="M291 313c4,-3 6,-9 6,-14 0,-10 -9,-19 -19,-19 -11,0 -19,9 -19,19 0,9 5,16 13,19"/>
+  <line class="fil125 str39" x1="272" y1="294" x2="291" y2= "313" />
+ </g>
+</svg>
